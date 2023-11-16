@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Debug
+comment0.text=\r\n\ Print\ information\ about\ the\ running\ program\r\n\ @author\ Mike\ Smith\ University\ of\ Brighton\r\n\ @version\ 1.0\r\n
+comment1.params=state
+comment1.target=boolean\ set(boolean)
+comment1.text=\r\n\ Set\ true/false\ to\ print\ debugging\ information\r\n\ @param\ state\ Debugging\ true\ false\r\n\ @return\ The\ old\ state\r\n
+comment2.params=fmt\ params
+comment2.target=void\ trace(java.lang.String,\ java.lang.Object[])
+comment2.text=\r\n\ Display\ text\ for\ debugging\ purposes\r\n\ @param\ fmt\ \ The\ same\ as\ printf\ etc\r\n\ @param\ params\ The\ parameters\ to\ fmt\r\n
+comment3.params=ok\ fmt\ params
+comment3.target=void\ assertTrue(boolean,\ java.lang.String,\ java.lang.Object[])
+comment3.text=\r\n\ Display\ a\ fatal\ message\ if\ the\ assertion\ fails\r\n\ @param\ ok\ true\ if\ all\ is\ ok\r\n\ @param\ fmt\ The\ same\ as\ printf\ etc\r\n\ @param\ params\ The\ parameters\ to\ fmt\r\n
+comment4.params=fmt\ params
+comment4.target=void\ error(java.lang.String,\ java.lang.Object[])
+comment4.text=\r\n\ Display\ a\ fatal\ message\r\n\ @param\ fmt\ The\ same\ as\ printf\ etc\r\n\ @param\ params\ The\ parameters\ to\ fmt\r\n
+numComments=5

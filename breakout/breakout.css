@@ -1,0 +1,8 @@
+
+.label {
+    -fx-font: bold 20pt "courier new";
+}
+
+.bigLabel {
+    -fx-font: bold 40pt "courier new";
+}
